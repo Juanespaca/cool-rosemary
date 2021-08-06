@@ -43,7 +43,8 @@
                 "url": "/pricing",
                 "style": "secondary"
             }
-        ]
+        ],
+        "logo": "/images/kamelia logo oficial.png"
     },
     "footer": {
         "logo": "images/logo.svg",
