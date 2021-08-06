@@ -34,7 +34,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Google Play",
+                "label": "REGISTRAR",
                 "url": "/pricing",
                 "style": "secondary"
             }
