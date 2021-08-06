@@ -36,7 +36,7 @@
             {
                 "label": "REGISTRAR",
                 "url": "/pricing",
-                "style": "secondary",
+                "style": "link",
                 "no_follow": false
             }
         ],
