@@ -37,7 +37,7 @@
                 "label": "REGISTRAR",
                 "url": "/pricing",
                 "style": "primary",
-                "no_follow": true
+                "no_follow": false
             }
         ],
         "logo": "/images/kamelia logo oficial.png"
